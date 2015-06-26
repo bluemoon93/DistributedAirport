@@ -1,0 +1,9 @@
+l040101-ws5.clients.ua.pt 22217 General
+l040101-ws9.clients.ua.pt 22217 Arrival
+l040101-ws7.clients.ua.pt 22217 EntryExit
+l040101-ws8.clients.ua.pt 22217 Luggage
+l040101-ws10.clients.ua.pt 22217 TA
+l040101-ws11.clients.ua.pt 22217 TD
+l040101-ws2.clients.ua.pt 22215 Porter
+l040101-ws7.clients.ua.pt 22215 Driver
+l040101-ws3.clients.ua.pt 22215 Plane

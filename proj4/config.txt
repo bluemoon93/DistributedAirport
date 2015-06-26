@@ -1,0 +1,9 @@
+localhost 10001 General
+localhost 10002 Arrival
+localhost 10003 EntryExit
+localhost 10004 Luggage
+localhost 10005 TA
+localhost 10006 TD
+localhost 10007 Porter
+localhost 10008 Driver
+localhost 10009 Plane
